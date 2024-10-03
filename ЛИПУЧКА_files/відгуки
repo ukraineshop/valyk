@@ -1,0 +1,45 @@
+<h2 class="title"><span></h2>
+				<p class="subtitle"></p>
+				<div class="reviews_inst">
+					<div class="inst_item">
+						<div class="info clearfix">
+							<img src="./ЛИПУЧКА_files/ava.jpg" alt="">
+							<p>Дмитро</p>
+						</div>
+						<img src="./ЛИПУЧКА_files/rev-1.jpg" alt="">
+						<div class="likes">Подобається: 958</div>
+						<p><b>Дмитро</b> Купив для свого авто, ціна сподобалась але був приємно здивований якістю. Все підійшло, дякую</p>
+					</div>
+					<div class="inst_item">
+						<div class="info clearfix">
+							<img src="./ЛИПУЧКА_files/ava.jpg" alt="">
+							<p>Андрій</p>
+						</div>
+						<img src="./ЛИПУЧКА_files/rev-2.jpg" alt="">
+						<div class="likes">Подобається: 189</div>
+						<p><b>Андрей</b> Тепер мене всі постійно питають де я купив органайзери так дешево, дуже задоволений </p>
+					</div>
+					<div class="inst_item">
+						<div class="info clearfix">
+							<img src="./ЛИПУЧКА_files/ava.jpg" alt="">
+							<p>Богдан</p>
+						</div>
+						<img src="./ЛИПУЧКА_files/rev-3.jpg" alt="">
+						<div class="likes">Подобається: 230</div>
+						<p><b>Богдан</b> Постійно. у мене був бардак в багажнику, після покупки тепер все чітко по місцях, рекомендую цей товар </p>
+					</div>
+
+
+					<div class="inst_item">
+						<div class="info clearfix">
+							<img src="./ЛИПУЧКА_files/ava.jpg" alt="">
+							<p>Олег</p>
+						</div>
+						<img src="./ЛИПУЧКА_files/rev-4.jpg" alt="">
+						<div class="likes">Подобається: 189</div>
+						<p><b>Олег</b> Монтаж легкий, прикріпив, їздиш, все подобається</p>
+					</div>
+					<div class="inst_item">
+						<div class="info clearfix">
+							<img src="./ЛИПУЧКА_files/ava.jpg" alt="">
+                    </div>
